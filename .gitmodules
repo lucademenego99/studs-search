@@ -1,0 +1,6 @@
+[submodule "studs-search-backend"]
+	path = studs-search-backend
+	url = git@github.com:lucademenego99/studs-search-backend.git
+[submodule "studs-search-webapp"]
+	path = studs-search-webapp
+	url = git@github.com:lucademenego99/studs-search-webapp.git
